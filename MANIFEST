@@ -7,3 +7,4 @@ t/mailman-test2
 t/pristine.t
 lib/Email/Store/Pristine.pm
 META.yml
+LICENSE
